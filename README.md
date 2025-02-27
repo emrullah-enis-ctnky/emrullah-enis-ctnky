@@ -1,22 +1,31 @@
-## 🚀 About Me  
-👋 Hi, I'm **Enis**, a Computer Engineering student at **Turkish-German University** with a passion for **Linux, open-source software, and game development**.  
+# 💻 About Me
 
-💻 I primarily work with **C++**, exploring areas like **GUI applications** and **game development**. I'm also interested in **ARM Assembly** and **low-level programming**.  
+- 🎓 Computer Engineering student at Turkish-German University
+- 🖥 Passionate about open-source software and Linux
+- 🚀 Experienced in C++ and QT Framework
+- 🏗 Learning Godot Engine and Java
+- 💡 Developed several projects using Qt Framework
+- 🐧 Enthusiastically exploring Linux systems
+- 📽️ Creating YouTube content about lesser-known software ([Teknoloji Muhafızı](https://www.youtube.com/@TeknolojiMuhafizi))
+- 🔹 Previously worked with PyQt5
 
-🎮 Currently, I'm developing a game that I plan to **publish on Google Play**.  
+## 🛠 Tech Stack
 
-### 🛠️ My Setup  
-- **OS:** Debian (Linux Mint & KDE Plasma), Windows 11  
-- **Laptop:** Victus 15 | **CPU:** Ryzen 7 5800H | **GPU:** RTX 3050 Ti  
-- **Favorite DE:** KDE  
+- **Languages**: C++, Java, Python
+- **Frameworks**: Qt, PyQt5
+- **Tools**: Git, Qt Creator, Godot Engine(4.0)
+- **OS**: Debian(KDE Plasma), Windows 
 
-### 🌱 Learning  
-- Advanced **C++** (smart pointers, inheritance, struct)  
-- **GUI development**  
+## 🖥 IDEs & Editors
 
-### 🔎 Looking for  
-- Open-source **GUI libraries** for C++ that are **license-friendly**  
+- **C++ & Python**: Visual Studio Code
+- **Java**: Eclipse
+- **GDScript**: Godot Engine 4.0
+- **Text & Small Edits**: Kate, Notepad++
 
-### 📌 Fun Fact  
-I love discovering **underrated software** and create **YouTube content** about it on my channel, **Teknoloji Muhafızı**.  
+## 📫 Contact
 
+- **GitHub**: [Emrullah Enis Çetinkaya](https://github.com/emrullah-enis-ctnky)
+- **YouTube**: [Teknoloji Muhafızı](https://www.youtube.com/@TeknolojiMuhafizi)
+
+Always eager to learn and explore new technologies!
