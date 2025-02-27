@@ -27,5 +27,6 @@
 
 - **GitHub**: [Emrullah Enis Çetinkaya](https://github.com/emrullah-enis-ctnky)
 - **YouTube**: [Teknoloji Muhafızı](https://www.youtube.com/@TeknolojiMuhafizi)
+- **Email**: cetinkayaemrullahenis@gmail.com
 
 Always eager to learn and explore new technologies!
