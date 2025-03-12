@@ -18,35 +18,30 @@
 - 🔹 **Previously worked with PyQt5**  
 
 ---
-
 ## 🛠 Tech Stack  
 
-### 🚀 **Languages**  
+### 🚀 Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" height="50"/>
 </p>
 
-### 🔧 **Frameworks & Tools**  
+### 🔧 Frameworks & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyQt5-41CD52?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=qt,git,godot" height="50"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/pyqt.png" height="50" alt="PyQt5 Logo"/>
 </p>
 
-### 💻 **Operating Systems**  
+### 💻 Operating Systems  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" height="50"/>
 </p>
 
-### ✨ **IDEs & Editors**  
+### ✨ IDEs & Editors  
 <p align="center">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,godot" height="50"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/notepadpp.png" height="50" alt="Notepad++ Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/kate.png" height="50" alt="Kate Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/qtcreator.png" height="50" alt="Qt Creator Logo"/>
 </p>
 
 ---
@@ -54,7 +49,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrullah-enis-ctnky&show_icons=true&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrullah-enis-ctnky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullah-enis-ctnky&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emrullah-enis-ctnky&theme=tokyonight&no-frame=true&column=4" width="49%" />
 </p>
 
 ---
