@@ -28,7 +28,7 @@
 ### 🔧 Frameworks & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=qt,git,godot" height="50"/>
-  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/pyqt.png" height="50" alt="PyQt5 Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/pyqt.png" height="50" alt="PyQt5 Logo"/>
 </p>
 
 ### 💻 Operating Systems  
@@ -39,9 +39,9 @@
 ### ✨ IDEs & Editors  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,godot" height="50"/>
-  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/notepadpp.png" height="50" alt="Notepad++ Logo"/>
-  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/kate.png" height="50" alt="Kate Logo"/>
-  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/main/qtcreator.png" height="50" alt="Qt Creator Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/notepadpp.png" height="50" alt="Notepad++ Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/kate.png" height="50" alt="Kate Logo"/>
+  <img src="https://raw.githubusercontent.com/emrullah-enis-ctnky/assets/qtcreator.png" height="50" alt="Qt Creator Logo"/>
 </p>
 
 ---
