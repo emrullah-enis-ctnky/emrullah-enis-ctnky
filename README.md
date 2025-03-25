@@ -18,6 +18,7 @@
 - 🔹 **Previously worked with PyQt5**  
 
 ---
+
 ## 🛠 Tech Stack  
 
 ### 🚀 Languages  
@@ -28,7 +29,6 @@
 ### 🔧 Frameworks & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=qt,git,godot" height="50"/>
-
 </p>
 
 ### 💻 Operating Systems  
@@ -67,6 +67,9 @@
   </a>
   <a href="mailto:cetinkayaemrullahenis@gmail.com">
     <img src="https://img.shields.io/badge/Email-cetinkayaemrullahenis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emrullah-enis-%C3%A7etinkaya-36b029293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Emrullah%20Enis%20%C3%87etinkaya-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
