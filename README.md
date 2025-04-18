@@ -1,3 +1,5 @@
+---
+
 <h1 align="center">Hi there, I'm Emrullah Enis Çetinkaya 👋</h1>
 
 <p align="center">
@@ -16,6 +18,7 @@
 - 🐧 **Enthusiastically exploring Linux systems**  
 - 📽️ **Creating YouTube content about lesser-known software ([Teknoloji Muhafızı](https://www.youtube.com/@TeknolojiMuhafizi))**  
 - 🔹 **Previously worked with PyQt5**  
+- 🌐 **Contributor at [SoftwareGuardians](https://source.masscollabs.xyz/SoftwareGuardians)**  
 
 ---
 
@@ -70,6 +73,9 @@
   </a>
   <a href="https://www.linkedin.com/in/emrullah-enis-%C3%A7etinkaya-36b029293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Emrullah%20Enis%20%C3%87etinkaya-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://source.masscollabs.xyz/SoftwareGuardians">
+    <img src="https://img.shields.io/badge/SoftwareGuardians-Open%20Source-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
