@@ -1,9 +1,9 @@
----
 
+---
 <h1 align="center">Hi there, I'm Emrullah Enis Çetinkaya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;C%2B%2B+%26+Qt+Developer;Linux+%F0%9F%90%A7+%26+Open-Source+Enthusiast;Learning+Kotlin+%26+Android+Studio;Tech+Content+Creator+on+YouTube" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;C%2B%2B+%26+Qt+Developer;Linux+%F0%9F%90%A7+%26+Open-Source+Enthusiast;Learning+Kotlin+%26+Android+Studio;Godot+%26+GDScript+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,12 +13,16 @@
 - 🎓 **Computer Engineering student at Turkish-German University**  
 - 🖥 **Passionate about open-source software and Linux**  
 - 🚀 **Experienced in C++ and Qt Framework**  
+- 🕹 **Developing 2D & 3D games using Godot Engine (GDScript)**  
+- 🎮 **Currently building a multiplayer top-collecting 2D game with Godot**  
+- 🧱 **Using Kenney 3D assets for modular 3D projects**  
+- 📦 **Exploring AI scripting with GDScript and Google Colab**  
 - 🏗 **Currently learning Kotlin and Android Studio**  
 - 💡 **Developed several projects using Qt Framework**  
 - 🐧 **Enthusiastically exploring Linux systems**  
 - 📽️ **Creating YouTube content about lesser-known software ([Teknoloji Muhafızı](https://www.youtube.com/@TeknolojiMuhafizi))**  
 - 🔹 **Previously worked with PyQt5**  
-- 🌐 **Contributor at [SoftwareGuardians](https://source.masscollabs.xyz/SoftwareGuardians)**  
+- 🌐 **Contributor at [SoftwareGuardians](https://github.com/Software-Guardians)**  
 
 ---
 
@@ -26,12 +30,12 @@
 
 ### 🚀 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,godot" height="50"/>
 </p>
 
 ### 🔧 Frameworks & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,git,androidstudio" height="50"/>
+  <img src="https://skillicons.dev/icons?i=qt,git,androidstudio,godot" height="50"/>
 </p>
 
 ### 💻 Operating Systems  
@@ -41,7 +45,7 @@
 
 ### ✨ IDEs & Editors  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,godot" height="50"/>
 </p>
 
 ---
@@ -80,5 +84,4 @@
 </p>
 
 🚀 Always eager to learn and explore new technologies!  
-
 ---
