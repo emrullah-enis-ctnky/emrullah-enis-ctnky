@@ -60,7 +60,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullah-enis-ctnky&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" width="49%" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emrullah-enis-ctnky&theme=tokyo-night&hide_border=true" width="98%" />
+<img src="https://streak-stats.demolab.com?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" width="49%" />
+
 
 </p>
 
