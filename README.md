@@ -58,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullah-enis-ctnky&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=emrullah-enis-ctnky&theme=tokyonight&no-frame=true&column=4" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
