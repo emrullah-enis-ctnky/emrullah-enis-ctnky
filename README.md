@@ -76,13 +76,6 @@
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Merhaba%2C+Ben+Emrullah+Enis!;💻+Full+Stack+Developer;🚀+Software+Engineer;📚+Always+Learning" alt="Typing SVG" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=emrullah-enis-ctnky&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emrullah-enis-ctnky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" />
@@ -92,6 +85,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" />
 </div>
+
 ---
 
 ## 🤝 **Connect With Me**
