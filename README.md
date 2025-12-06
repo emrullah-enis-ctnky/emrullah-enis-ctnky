@@ -77,10 +77,6 @@
 ## 📊 **GitHub Analytics**
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrullah-enis-ctnky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullah-enis-ctnky&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" width="49%" />
-</div>
 
 <div align="center">
   <img src="https://git-hub-streak-stats.vercel.app?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" />
