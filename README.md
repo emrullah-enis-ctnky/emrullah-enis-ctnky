@@ -76,13 +76,20 @@
 
 ## 📊 **GitHub Analytics**
 
-
-
 <div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" />
+  <!-- GitHub İstatistik Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api?username=emrullah-enis-ctnky&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <br/>
+  
+  <!-- En Çok Kullanılan Diller Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullah-enis-ctnky&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+  
+  <br/>
+  
+  <!-- GitHub Katkı Serisi Kartı (Çalışan Güncel Alternatif) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullah-enis-ctnky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
 
 ---
 
