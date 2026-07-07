@@ -85,7 +85,19 @@
   <!-- Alternatif ve Çok Daha Kararlı SVG İstatistik Kartı -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrullah-enis-ctnky&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/github/followers/emrullah-enis-ctnky?label=Tak%C4%B1p%C3%A7i&style=for-the-badge&color=58a6ff" />
+  <img src="https://img.shields.io/github/stars/emrullah-enis-ctnky?label=Y%C4%B1ld%C4%B1zlar&style=for-the-badge&color=f2c94c" />
+  <img src="https://img.shields.io/github/repo-size/emrullah-enis-ctnky/Lexiona?label=Lexiona%20Boyutu&style=for-the-badge&color=6fcf97" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emrullah-enis-ctnky&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/emrullah-enis-ctnky?label=Tak%C4%B1p%C3%A7i&style=for-the-badge&color=58a6ff" />
+  <img src="https://img.shields.io/github/stars/emrullah-enis-ctnky?label=Y%C4%B1ld%C4%B1zlar&style=for-the-badge&color=f2c94c" />
+  <img src="https://img.shields.io/github/repo-size/emrullah-enis-ctnky/Lexiona?label=Lexiona%20Boyutu&style=for-the-badge&color=6fcf97" />
+</div>
 ---
 
 ## 🤝 **Connect With Me**
