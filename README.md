@@ -56,7 +56,7 @@
 
 ### 💻 **Operating Systems & Environments**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,windows&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux,cachy,debian,windows&theme=dark" height="60"/>
 </div>
 
 <div align="center">
