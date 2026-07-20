@@ -56,7 +56,8 @@
 
 ### 💻 **Operating Systems & Environments**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cachyos,debian,windows&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows&theme=dark" height="60" style="vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/CachyOS/cachyos-artwork/main/desktop-wallpapers/cachyos-logo.svg" height="50" width="50" style="vertical-align: middle; margin-left: 6px; background-color: #1a1a1a; padding: 5px; border-radius: 12px;" alt="CachyOS"/>
 </div>
 
 <div align="center">
