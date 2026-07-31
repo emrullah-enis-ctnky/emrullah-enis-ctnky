@@ -75,6 +75,7 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrullah-enis-ctnky&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahenisctnky&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 
 ---
 
